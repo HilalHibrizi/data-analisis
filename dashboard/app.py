@@ -4,7 +4,9 @@ import seaborn as sns
 import streamlit as st
 
 # Membaca data dari CSV
-merged_df = pd.read_csv("all.csv")
+merged_df = pd.read_csv("../all.csv")
+
+
 # Menghitung total penyewa berdasarkan kondisi cuaca
 st.subheader("Tren Penggunaan Sepeda per Bulan")
 st.markdown("""

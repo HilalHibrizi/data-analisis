@@ -15,5 +15,7 @@ streamlit run dashboard/app.py
 ```
 
 ## Link Deploy dashboard ke dalam streamlit cloud.
+https://dbmf8acopxyqqrvjtoi7rw.streamlit.app/
+
 
 

@@ -5,7 +5,7 @@ import streamlit as st
 import os
 st.write("Current directory:", os.getcwd())
 # Membaca data dari CSV
-merged_df = pd.read_csv("all.csv")
+merged_df = pd.read_csv("dashboard/all.csv")
 
 
 # Menghitung total penyewa berdasarkan kondisi cuaca
